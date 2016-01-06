@@ -1,0 +1,7 @@
+{
+	"name": "experimental_logger",
+	"description": "Mirror of Phobos' std.experimental.logger package",
+	"copyright": "see phobos",
+	"authors": ["see_phobos"],
+	"license": "AGPL-3.0",
+}
